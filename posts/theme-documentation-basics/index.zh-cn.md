@@ -5,7 +5,7 @@ date: 2020-03-06T21:40:32+08:00
 lastmod: 2020-03-06T21:40:32+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "探索 Hugo - LoveIt 主题的全部内容和背后的核心概念."
 images: []
 resources:

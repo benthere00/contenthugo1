@@ -5,7 +5,7 @@ date: 2020-03-03T11:29:41+08:00
 lastmod: 2020-03-03T12:29:41+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "bilibili shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器."
 images: []
 resources:

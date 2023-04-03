@@ -5,7 +5,7 @@ date: 2020-03-05T15:58:26+08:00
 lastmod: 2020-03-05T15:58:26+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "Find out how to create and organize your content quickly and intuitively in LoveIt theme."
 images: []
 resources:

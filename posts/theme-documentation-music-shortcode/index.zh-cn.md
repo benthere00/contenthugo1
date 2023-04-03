@@ -5,7 +5,7 @@ date: 2020-03-03T12:29:59+08:00
 lastmod: 2020-03-03T12:29:59+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "music shortcode 基于 APlayer 和 MetingJS 库提供了一个内嵌的响应式音乐播放器."
 images: []
 resources:

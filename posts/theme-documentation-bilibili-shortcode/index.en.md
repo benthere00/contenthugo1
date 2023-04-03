@@ -5,7 +5,7 @@ date: 2020-03-03T11:29:41+08:00
 lastmod: 2020-03-03T12:29:41+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "The bilibili shortcode embeds a responsive video player for bilibili videos."
 images: []
 resources:

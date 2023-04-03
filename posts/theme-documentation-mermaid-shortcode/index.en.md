@@ -5,7 +5,7 @@ date: 2020-03-03T15:29:41+08:00
 lastmod: 2020-03-03T15:29:41+08:00
 draft: false
 author: "Dillon"
-authorLink: "https://dillonzq.com"
+authorLink: "https://www.datacareph.com"
 description: "The mermaid shortcode supports diagrams in Hugo with Mermaid library."
 images: []
 resources:
