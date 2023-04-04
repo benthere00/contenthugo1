@@ -1,5 +1,5 @@
 ---
-title: "Basic Markdown Syntax"
+title: "Breach Threat! Someone Can Reveal Your Saved Password from the Browser"
 date: 2023-04-03T11:57:40+08:00
 lastmod: 2023-04-03T11:57:40+08:00
 draft: false
@@ -8,8 +8,8 @@ authorLink: "https://www.datacareph.com"
 description: "Breach Threat! Someone Can Reveal Your Saved Password from the Browser"
 images: []
 resources:
-- name: "password-breach-hack-reveal"
-  src: "password-breach-hack-reveal.png"
+- name: "featured-image"
+  src: "featured-image.png"
 
 tags: ["data", "breach", "hack", "security"]
 categories: ["Cyber Security"]
@@ -25,8 +25,7 @@ Specifically, this information is limited to Mozilla Firefox and Google Chrome b
 
 The scenario (as an example) is that when you use your favorite web browser to login to your Facebook account, you’ll see something similar to this.!
 
-![[facebook-uri.png]]![[facebook-login.png]]
-
+![](facebook-uri.png "Facebook URI")
 source: screenshot facebook login
 
 From there, your browser prompts you to save the password or the website has a “Remember Password” checkbox field, so the issue starts from there. So the next question is, where do your login credentials go? How could you or someone else access it?
