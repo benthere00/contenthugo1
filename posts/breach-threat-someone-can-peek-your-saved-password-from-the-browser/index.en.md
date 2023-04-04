@@ -25,7 +25,7 @@ Specifically, this information is limited to Mozilla Firefox and Google Chrome b
 
 The scenario (as an example) is that when you use your favorite web browser to login to your Facebook account, you’ll see something similar to this.!
 
-![](facebook-uri.png "Facebook URI")
+![Facebook URI](facebook-uri.png "Facebook URI")
 source: screenshot facebook login
 
 From there, your browser prompts you to save the password or the website has a “Remember Password” checkbox field, so the issue starts from there. So the next question is, where do your login credentials go? How could you or someone else access it?
@@ -39,7 +39,7 @@ chrome://settings/passwords?search=manage
 ```
 
 Autofill > Select specific login details
-![[google-chrome-password-manager.png]]
+![](google-chrome-password-manager.png)
 
 In Chrome, when you click the eye icon, it prompts for admin privileges in order to see the password string, which is somewhat good news since it has a layer of authentication.
 
@@ -52,8 +52,7 @@ about:logins
 ```
 
 And you’ll see something similar to this when you click on specific account, and click the `eye icon` to see the password naked.
-
-![[mozilla-firefox-password-manager.png]]
+![](mozilla-firefox-password-manager.png)
 
 ## Other Browsers Too
 
@@ -71,7 +70,8 @@ Here’s my recommendations and tips:
 
 -   Just do not fully trust your web browser.
 -   Do not put your trust in any unknown website.
--   Access the website only with `HTTPS` in the address bar in your browser like![[facebook-uri.png]]
+-   Access the website only with `HTTPS` in the address bar in your browser like
+![](facebook-uri.png)
 -   Do not let the web browser save your password for you.
 -   Access the Internet with full precaution with awareness of what information or traces you might leave especially sensitive information i.e. user login credentials, credit card info
 -   I believe Google Password Manager is somewhat secure to let them remember passwords for you. i.e.
