@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5732db080f2cebbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notice/privacy-policy/index.en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401845f8642ae0ad",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/automatically-backup-files-your-server-files/index.en.md",
+                "file": "notice/privacy-policy/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/automatically-backup-files-your-server-files/index.en.md",
+                "file": "notice/privacy-policy/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/automatically-backup-files-your-server-files/index.en.md"
+                "file": "notice/privacy-policy/index.en.md"
               }
             }
           }
@@ -172,11 +184,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32a61fa5ad0a36a0",
+  "active": "5732db080f2cebbf",
   "lastOpenFiles": [
+    "notice/privacy-policy/privacy-policy-datacareph.png",
+    "about/index.en.md",
+    "notice/privacy-policy/index.en.md",
+    "posts/automatically-backup-files-your-server-files/index.en.md",
+    "notice/privacy-policy",
+    "notice",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
-    "posts/automatically-backup-files-your-server-files/index.en.md",
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
     "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files",
@@ -197,7 +214,6 @@
     "tags/content/_index.zh-cn.md",
     "categories/documentation/_index.en.md",
     "categories/documentation/_index.zh-cn.md",
-    "about/index.en.md",
     "posts/theme-documentation-built-in-shortcodes/index.zh-cn.md",
     "posts/theme-documentation-built-in-shortcodes/index.en.md"
   ]

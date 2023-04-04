@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["linux", "breach", "hack", "security"]
+tags: ["linux", "server", "backup", "bash"]
 categories: ["Automation", "Linux"]
 
 lightgallery: true
@@ -186,8 +186,9 @@ exit 0
 Note: To test the code above, just run this code on [jdoodle.com](https://www.jdoodle.com/test-bash-shell-script-online/) but set DEBUG=true
 
 > Command Line Arguments:
-> 
-> home/username/backup /home/username/public_hmtl
+
+./backup-script.sh home/username/backup /home/username/public_hmtl
+
 > 
 > Important: DEBUG=true
 
