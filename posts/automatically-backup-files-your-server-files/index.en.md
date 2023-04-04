@@ -11,8 +11,8 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["data", "breach", "hack", "security"]
-categories: ["Cyber Security"]
+tags: ["linux", "breach", "hack", "security"]
+categories: ["Automation", "Linux"]
 
 lightgallery: true
 ---
@@ -73,7 +73,7 @@ Copy and Paste below:
 ```bash
 #!/bin/bash
 ##
-# ./backup-script.sh DESTINATION SOURCE
+# ./backup-files SOURCE DESTINATION
 # (2) PARAMETERS required, destination where to save
 # backup files and target files to backup
 # .log File is in destination folder
@@ -81,28 +81,28 @@ Copy and Paste below:
 # Pre-requisite: tar, tee, head, xargs, gzip
 #
 # Make it executable
-# chmod u+x ./backup-script.sh
+# chmod u+x ./backup-files.sh
 #
 ##
 START=$(date +%s)
 LOGS=$(date '+%m-%d-%Y %H:%M:%S')
 if [ -z "$1" ] || [ -z "$2" ]; then
     LOGS+=" - ERROR: (2) PARAMS required"
-	echo $LOGS
-	echo "usage:"
-	echo "./backup-files.sh BACKUP_FOLDER SOURCE_FOLDER"
-	echo "BACKUP_FOLDER - file destination to where the archive.tar.gz is saved"
-	echo "SOURCE_FOLDER - file source to be added in the archive"
-	echo "e.g."
-    echo "./backup-script.sh /home/username/backup /home/username/public_hmtl"
-	exit 255;
+        echo $LOGS
+        echo "usage:"
+        echo "./backup-files.sh SOURCE_FOLDER DESTINATION_FOLDER"
+        echo "SOURCE_FOLDER - file source to be added in the archive"
+        echo "DESTINATION_FOLDER - file destination to where the archive.tar.gz is saved"
+        echo "e.g."
+        echo "./backup-files.sh /home/username/public_hmtl /home/username/backup"
+        exit 255;
 fi
 
 #PARAMS
 DEBUG=false #Bolean
 KEEP_FILES=5 #Only keep 5 recent files; 0 to disable
-BACKUP_FOLDER=$1
-SOURCE_FOLDER=$2 # SOURCE_FOLDER="backup-source backup-another-source" #the folder that contains the files that we want to backup
+SOURCE_FOLDER=$1 # SOURCE_FOLDER="backup-source backup-another-source" #the folder that contains the files that we want to backup
+BACKUP_FOLDER=$2
 CWD=$(pwd) # assigning Current Working Directory (CWD)
 #Database Exports
 # Note: No whitespace in the -p Flag
@@ -180,6 +180,7 @@ if [[ "${DEBUG}" == "true" ]]; then
     cat backup0.log
     echo "---End Debug Extract---"
 fi
+exit 0
 ```
 
 Note: To test the code above, just run this code on [jdoodle.com](https://www.jdoodle.com/test-bash-shell-script-online/) but set DEBUG=true
