@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "64a81aa3264b363c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about/privacy-policy/index.en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401845f8642ae0ad",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,11 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3165432d584fc633",
+  "active": "64a81aa3264b363c",
   "lastOpenFiles": [
-    "about/privacy-policy/privacy-policy-datacareph.png",
-    "about/index.en.md",
+    "about/us/index.en.md",
     "about/privacy-policy/index.en.md",
+    "about/us",
+    "about/index.en.md",
+    "about/privacy-policy/privacy-policy-datacareph.png",
     "posts/automatically-backup-files-your-server-files/index.en.md",
     "about/privacy-policy",
     "notice",
