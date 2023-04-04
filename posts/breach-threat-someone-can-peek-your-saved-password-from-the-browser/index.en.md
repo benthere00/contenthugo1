@@ -1,12 +1,11 @@
 ---
-weight: 4
 title: "Basic Markdown Syntax"
 date: 2023-04-03T11:57:40+08:00
-lastmod: 2020-01-01T16:45:40+08:00
+lastmod: 2023-04-03T11:57:40+08:00
 draft: false
 author: "venven"
 authorLink: "https://www.datacareph.com"
-description: "This article shows the basic Markdown syntax and format."
+description: "Breach Threat! Someone Can Reveal Your Saved Password from the Browser"
 images: []
 resources:
 - name: "password-breach-hack-reveal"
