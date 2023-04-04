@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5a73147e7699df8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about/we-care/index.en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401845f8642ae0ad",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/privacy-policy/index.en.md",
+                "file": "about/we-care/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/privacy-policy/index.en.md",
+                "file": "about/we-care/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/privacy-policy/index.en.md"
+                "file": "about/we-care/index.en.md"
               }
             }
           }
@@ -196,12 +208,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64a81aa3264b363c",
+  "active": "5a73147e7699df8d",
   "lastOpenFiles": [
     "about/us/index.en.md",
-    "about/privacy-policy/index.en.md",
-    "about/us",
+    "about/we-care/index.en.md",
     "about/index.en.md",
+    "about/index.zh-cn.md",
+    "about/us",
+    "about/privacy-policy/index.en.md",
+    "about/we-care",
+    "about/us/Untitled",
+    "about/us",
     "about/privacy-policy/privacy-policy-datacareph.png",
     "posts/automatically-backup-files-your-server-files/index.en.md",
     "about/privacy-policy",

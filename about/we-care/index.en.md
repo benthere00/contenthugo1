@@ -1,23 +1,4 @@
----
-title: "About Us"
-date: 2019-08-02T11:04:49+08:00
-draft: false
-description: "About Us"
----
-
-## Who are we?
-
-We are a group of people who are enthusiast in doing research and technical writing in the field of software development, data analysis, cyber security, and cloud technology based in Iloilo, Philippines.
-
-## Our Mission
-
-To make people aware on what’s going in their devices on the accessing the internet.
-
-## Our Vision
-
-To build an automation software to audit a particular application for safety usage.
-
-## Someone is watching you right now!?
+## Someone is watching you right now!
 
 So what’s the catch? Have you fallen victim to this apparent click bait? Or does this concern you?
 
