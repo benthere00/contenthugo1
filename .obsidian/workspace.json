@@ -212,6 +212,7 @@
   "lastOpenFiles": [
     "about/us/index.en.md",
     "about/we-care/index.en.md",
+    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "about/index.en.md",
     "about/index.zh-cn.md",
     "about/us",
@@ -224,7 +225,6 @@
     "about/privacy-policy",
     "notice",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
-    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
     "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files",

@@ -1,3 +1,10 @@
+---
+title: "We Care"
+date: 2016-08-02T11:04:49+08:00
+draft: false
+description: "We Care"
+---
+
 ## Someone is watching you right now!
 
 So what’s the catch? Have you fallen victim to this apparent click bait? Or does this concern you?
