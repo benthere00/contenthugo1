@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notice/privacy-policy/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notice/privacy-policy/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notice/privacy-policy/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notice/privacy-policy/index.en.md"
+                "file": "about/privacy-policy/index.en.md"
               }
             }
           }
@@ -184,13 +184,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5732db080f2cebbf",
+  "active": "3165432d584fc633",
   "lastOpenFiles": [
-    "notice/privacy-policy/privacy-policy-datacareph.png",
+    "about/privacy-policy/privacy-policy-datacareph.png",
     "about/index.en.md",
-    "notice/privacy-policy/index.en.md",
+    "about/privacy-policy/index.en.md",
     "posts/automatically-backup-files-your-server-files/index.en.md",
-    "notice/privacy-policy",
+    "about/privacy-policy",
     "notice",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
