@@ -1,7 +1,7 @@
 ---
 title: "Breach Threat! Someone Can Reveal Your Saved Password from the Browser"
-date: 2023-04-03T11:57:40+08:00
-lastmod: 2023-04-03T11:57:40+08:00
+date: 2023-03-03T11:57:40+08:00
+lastmod: 2023-03-03T11:57:40+08:00
 draft: false
 author: "venven"
 authorLink: "https://www.datacareph.com"
@@ -26,7 +26,7 @@ Specifically, this information is limited to Mozilla Firefox and Google Chrome b
 The scenario (as an example) is that when you use your favorite web browser to login to your Facebook account, you’ll see something similar to this.!
 
 ![Facebook URI](facebook-uri.png "Facebook URI")
-source: screenshot facebook login
+source: facebook login
 
 From there, your browser prompts you to save the password or the website has a “Remember Password” checkbox field, so the issue starts from there. So the next question is, where do your login credentials go? How could you or someone else access it?
 

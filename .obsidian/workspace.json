@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "401845f8642ae0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/automatically-backup-files-your-server-files/index.en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
+                "file": "posts/automatically-backup-files-your-server-files/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
+                "file": "posts/automatically-backup-files-your-server-files/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md"
+                "file": "posts/automatically-backup-files-your-server-files/index.en.md"
               }
             }
           }
@@ -160,11 +172,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32a61fa5ad0a36a0",
+  "active": "401845f8642ae0ad",
   "lastOpenFiles": [
+    "posts/automatically-backup-files-your-server-files/backup-folder.png",
+    "posts/automatically-backup-files-your-server-files/featured-image.png",
+    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
+    "posts/automatically-backup-files-your-server-files/index.en.md",
+    "posts/automatically-backup-files-your-server-files",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png",
     "posts/theme-documentation-basics/index.en.md",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/basic-markdown-syntax/index.en.md",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/save-password-google-chrome.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/facebook-uri.png",
