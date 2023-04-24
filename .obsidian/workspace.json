@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/we-care/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/we-care/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/we-care/index.en.md",
+                "file": "about/privacy-policy/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/we-care/index.en.md"
+                "file": "about/privacy-policy/index.en.md"
               }
             }
           }
