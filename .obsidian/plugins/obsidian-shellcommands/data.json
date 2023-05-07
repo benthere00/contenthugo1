@@ -18,7 +18,7 @@
     {
       "id": "aptlbjfsc0",
       "platform_specific_commands": {
-        "default": "echo \"\" > $HOME/projx/hugo/log/obsidian_bot.log && bash $HOME/projx/hugo/theblogprojectv1/helper/git-autopilot.sh > $HOME/projx/hugo/log/obsidian_bot.log 2>&1"
+        "default": "echo '' > /Users/esstat17/projx/hugo/github/obsidian_bot.log && bash /Users/esstat17/projx/hugo/github/venhomelab/helperhugo1/autosave.sh >  /Users/esstat17/projx/hugo/github/obsidian_bot.log 2>&1"
       },
       "shells": {},
       "alias": "Git Auto Pilot",
