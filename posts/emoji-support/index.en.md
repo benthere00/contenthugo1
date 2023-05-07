@@ -15,7 +15,7 @@ resources:
 tags: ["emoji"]
 categories: ["Markdown"]
 
-twemoji: false
+twemoji: true
 lightgallery: true
 ---
 

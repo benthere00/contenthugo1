@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/privacy-policy/index.en.md",
+                "file": "posts/emoji-support/index.en.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/privacy-policy/index.en.md",
+                "file": "posts/emoji-support/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/privacy-policy/index.en.md",
+                "file": "posts/emoji-support/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/privacy-policy/index.en.md"
+                "file": "posts/emoji-support/index.en.md"
               }
             }
           }
@@ -218,42 +218,49 @@
   },
   "active": "5a73147e7699df8d",
   "lastOpenFiles": [
+    "posts/theme-documentation-basics/complete-configuration-preview.zh-cn.png",
+    "posts/theme-documentation-basics/featured-image.jpg",
+    "posts/theme-documentation-basics/index.en.md",
+    "posts/theme-documentation-bilibili-shortcode/index.en.md",
+    "posts/theme-documentation-built-in-shortcodes/index.en.md",
+    "posts/theme-documentation-content/index.en.md",
+    "posts/theme-documentation-echarts-shortcode/index.en.md",
+    "posts/theme-documentation-extended-shortcodes/index.en.md",
+    "posts/theme-documentation-mapbox-shortcode/featured-image.jpg",
+    "posts/theme-documentation-mapbox-shortcode/index.en.md",
+    "posts/theme-documentation-mermaid-shortcode/index.en.md",
+    "posts/theme-documentation-music-shortcode/index.en.md",
+    "posts/theme-documentation-typeit-shortcode/index.en.md",
+    "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
+    "posts/automatically-backup-files-your-server-files/index.en.md",
+    "about/privacy-policy/index.en.md",
+    "about/privacy-policy/privacy-policy-datacareph.png",
     "about/us/index.en.md",
     "about/we-care/index.en.md",
-    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "about/index.en.md",
     "about/index.zh-cn.md",
     "about/us",
-    "about/privacy-policy/index.en.md",
     "about/we-care",
     "about/us/Untitled",
     "about/us",
-    "about/privacy-policy/privacy-policy-datacareph.png",
-    "posts/automatically-backup-files-your-server-files/index.en.md",
     "about/privacy-policy",
     "notice",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
     "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png",
-    "posts/theme-documentation-basics/index.en.md",
     "posts/basic-markdown-syntax/index.en.md",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/save-password-google-chrome.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/facebook-uri.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/mozilla-firefox-password-manager.png",
     "google-chrome-password-manager.png",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/facebook-login.png",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/featured-image.png",
-    "posts/theme-documentation-bilibili-shortcode/index.en.md",
-    "posts/theme-documentation-typeit-shortcode/index.en.md",
     "tags/configuration/_index.zh-cn.md",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser",
     "tags/installation/_index.zh-cn.md",
     "tags/content/_index.zh-cn.md",
-    "categories/documentation/_index.en.md",
-    "categories/documentation/_index.zh-cn.md",
-    "posts/theme-documentation-built-in-shortcodes/index.zh-cn.md",
-    "posts/theme-documentation-built-in-shortcodes/index.en.md"
+    "categories/documentation/_index.en.md"
   ]
 }
