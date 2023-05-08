@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/emoji-support/index.en.md",
+                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/emoji-support/index.en.md",
+                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/emoji-support/index.en.md",
+                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/emoji-support/index.en.md"
+                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md"
               }
             }
           }
@@ -216,8 +216,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a73147e7699df8d",
+  "active": "3165432d584fc633",
   "lastOpenFiles": [
+    "posts/img/woocommerce-add-to-cart.png",
+    "posts/img",
+    "tags/configuration/_index.zh-cn.md",
+    "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
+    "README.md",
+    "templater/Create File.md",
+    "templater/Insert Tags.md",
+    "templater/Date Modified.md",
+    "templater/Update Slug.md",
+    "templater/New Post.md",
+    "templater/Friendly Tags.md",
+    "templater",
+    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
+    "posts/emoji-support/index.en.md",
     "posts/theme-documentation-basics/complete-configuration-preview.zh-cn.png",
     "posts/theme-documentation-basics/featured-image.jpg",
     "posts/theme-documentation-basics/index.en.md",
@@ -234,14 +248,8 @@
     "posts/redirects-non-www-to-www-using-cloudflare.md",
     "Untitled 1.md",
     "Untitled.md",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/automatically-backup-files-your-server-files/index.en.md",
-    "about/privacy-policy/index.en.md",
     "about/privacy-policy/privacy-policy-datacareph.png",
-    "about/us/index.en.md",
-    "about/we-care/index.en.md",
-    "about/index.en.md",
-    "about/index.zh-cn.md",
     "about/us",
     "about/we-care",
     "about/us/Untitled",
@@ -252,15 +260,9 @@
     "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png",
-    "posts/basic-markdown-syntax/index.en.md",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/save-password-google-chrome.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/facebook-uri.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/mozilla-firefox-password-manager.png",
-    "google-chrome-password-manager.png",
-    "tags/configuration/_index.zh-cn.md",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser",
-    "tags/installation/_index.zh-cn.md",
-    "tags/content/_index.zh-cn.md",
-    "categories/documentation/_index.en.md"
+    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser"
   ]
 }
