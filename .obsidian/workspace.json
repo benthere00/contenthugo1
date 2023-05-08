@@ -216,12 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3165432d584fc633",
+  "active": "401845f8642ae0ad",
   "lastOpenFiles": [
-    "posts/featured-image.png",
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "posts/featured-image-preview.png",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
+    "posts/featured-image.png",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/featured-image.png",
@@ -261,7 +262,6 @@
     "notice",
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
     "posts/automatically-backup-files-your-server-files/featured-image.png",
-    "posts/automatically-backup-files-your-server-files",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png"
+    "posts/automatically-backup-files-your-server-files"
   ]
 }
