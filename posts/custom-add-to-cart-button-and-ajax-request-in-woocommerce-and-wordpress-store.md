@@ -27,7 +27,7 @@ math:
 ## Creating a Custom Add to Cart Button using Ajax Request for a Seamless Checkout Experience in WooCommerce and WordPress
 
 ### Simple HTML and JS Approach
-Here's the solution below:
+Here's the solution below: 
 
 ### HTML Code
 ```html
