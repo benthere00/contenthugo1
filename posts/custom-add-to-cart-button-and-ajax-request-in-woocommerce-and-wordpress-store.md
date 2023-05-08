@@ -10,7 +10,7 @@ description: "Relevant description for this content"
 images: []
 resources:
 - name: "featured-image"
-  src: "../img/featured-image.png"
+  src: "featured-image.png"
 
 tags: ["WooCommerce","WordPress","CSS"]
 categories: ["Web Development"]
@@ -18,7 +18,7 @@ categories: ["Web Development"]
 lightgallery: false
 
 toc:
-  enable: false
+  enable: true
 twemoji: false
 math:
   enable: false
