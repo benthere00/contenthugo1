@@ -19,3 +19,6 @@ bin-release/
 
 # from mac
 .DS_Store
+
+# remove templater
+templater/

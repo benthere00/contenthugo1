@@ -103,6 +103,16 @@ jQuery(document).ready(function($) {
 
 ```
 
+The above code has the following features 
+- This even works by adding multiple products
+- Make sure to replace the product IDs and quantities in the `hi_products_group` array with your actual products.
+- Check that the `index` variable is initialized to `0`.
+- Confirm that the `addProductToCart()` function sends the correct AJAX request to add the product to the cart.
+- Verify that the `beforeSend` property of the AJAX request updates the button text appropriately.
+- Check that the `success` property of the AJAX request adds the next product to the cart and updates the button text.
+- Confirm that the `error` property of the AJAX request handles errors appropriately.
+- Make sure that the `click` event listener for the `#hi-add-button` element calls the `addProductToCart()` function when clicked.
+
 
 If the issue you were facing has been resolved by the above solution, you may stop reading at this point.
 

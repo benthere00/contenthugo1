@@ -1,1 +1,0 @@
-<% tr=tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>

@@ -1,1 +1,0 @@
-File creation: [[<% (await tp.file.create_new("", "New Post")).basename %>]]
