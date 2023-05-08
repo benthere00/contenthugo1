@@ -71,11 +71,9 @@
             "id": "401845f8642ae0ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
-                "mode": "source",
-                "source": false
+                "file": "posts/featured-image.png"
               }
             }
           }
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
+                "file": "posts/featured-image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
+                "file": "posts/featured-image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md"
+                "file": "posts/featured-image.png"
               }
             }
           }
@@ -218,9 +216,9 @@
   },
   "active": "401845f8642ae0ad",
   "lastOpenFiles": [
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/featured-image-preview.png",
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
     "posts/featured-image.png",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store",
