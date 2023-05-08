@@ -113,7 +113,6 @@ The above code has the following features
 - Confirm that the `error` property of the AJAX request handles errors appropriately.
 - Make sure that the `click` event listener for the `#hi-add-button` element calls the `addProductToCart()` function when clicked.
 
-
 If the issue you were facing has been resolved by the above solution, you may stop reading at this point.
 
 ## How do I enable Ajax add to cart button in WooCommerce and Wordpress?
