@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Personalizing Your WooCommerce and WordPress Store with a Custom Add to Cart Button and Ajax Request"
+title: "Custom Add to Cart Button and Ajax Request in WooCommerce and WordPress Store"
 date: 2023-05-08T04:53:13+08:00
 lastmod: 2023-05-08T04:53:13+08:00
 draft: false
@@ -13,7 +13,7 @@ resources:
   src: "../img/featured-image.png"
 
 tags: ["WooCommerce","WordPress","CSS"]
-categories: ["web development"]
+categories: ["Web Development"]
 
 lightgallery: false
 
@@ -37,61 +37,60 @@ Here's the solution below:
 ### JQuery Code
 ```js
 jQuery(document).ready(function($) {
+  // Ajax Starts
 
-// Ajax Starts
+  // Manually replace using your actual product ID
+  const hi_products_group = [
+    { product_id: 242, quantity: 2 }, // Product 1
+    { product_id: 265, quantity: 1 }, // Product 2
+    // You can add more here..
+  ];
 
-// Manually replace using your actual product ID
-var hi_products_group = [
-  { product_id: 242, quantity: 2 }, // Product 1
-  { product_id: 265, quantity: 1 }, // Product 2
-  // You can add more here..
-];
-
-  var index = 0;
+  let index = 0;
 
   function addProductToCart() {
+    const getData = $('#hi-data-store').val();
+    const product = hi_products_group[index];
 
-    var getData = $('#hi-data-store').val();
-    var hi_products_group = [];
-
-    var product = hi_products_group[index];
     if (index >= hi_products_group.length) {
       // Redirect to cart or update cart widget
       window.location.href = wc_add_to_cart_params.cart_url;
       return;
     }
+
     // increment
     index++;
+
     // Send the AJAX request to add the product to the cart.
     $.ajax({
       type: 'POST',
       dataType: 'json',
       url: wc_add_to_cart_params.ajax_url,
-      //url: 'https://test-elvin.hineon.ca/?wc-ajax=add_to_cart',
       data: {
         action: 'woocommerce_add_to_cart',
-        product_id: product.productId,
-        quantity: product.quantity
+        product_id: product.product_id,
+        quantity: product.quantity,
       },
       beforeSend: function(xhr) {
         // Show loading spinner or disable button
         xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-        $('#hi-add-button').text('PROCEED TO CART..')
+        $('#hi-add-button').text('PROCEED TO CART..');
       },
       success: function(response) {
-        // pause for 600ms
-        setTimeout(addProductToCart, 600);
-        // Add the next product to the cart
-        addProductToCart();
+        if (index < hi_products_group.length) {
+          // pause for 600ms
+          setTimeout(addProductToCart, 600);
+          // Add the next product to the cart
+          addProductToCart();
+        } else {
+          // all products have been added, change button text
+          $('#hi-add-button').text('ADD TO CART');
+        }
       },
       error: function(xhr, status, error) {
         // Handle error
         console.log(error);
       },
-      complete: function() {
-        // Hide loading spinner or re-enable button
-        $('#hi-add-button').text('ADD TO CART')
-      }
     });
   }
 
@@ -102,7 +101,6 @@ var hi_products_group = [
   });
 });
 
-
 ```
 
 
@@ -111,7 +109,7 @@ If the issue you were facing has been resolved by the above solution, you may st
 ## How do I enable Ajax add to cart button in WooCommerce and Wordpress?
 
 ### Scenario 1.
-If you're looking to improve your user experience and streamline your checkout process, enabling Ajax add to cart button in #WooCommerce and #WordPress is a great place to start. Ajax allows customers to add products to their cart without having to refresh the page, making the shopping experience faster and more seamless. Here's how you can enable it:
+If you're looking to improve your user experience and streamline your checkout process, enabling Ajax add to cart button in #WooCommerce and # is a great place to start. Ajax allows customers to add products to their cart without having to refresh the page, making the shopping experience faster and more seamless. Here's how you can enable it:
 
 1.  Go to your WordPress dashboard and navigate to WooCommerce > Settings > Products > General.
 2.  Check the box that says "Enable AJAX add to cart buttons on archives."

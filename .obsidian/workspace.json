@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
+                "file": "templater/Date Modified.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/redirects-non-www-to-www-using-cloudflare.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md"
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md"
               }
             }
           }
@@ -216,16 +216,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3165432d584fc633",
+  "active": "401845f8642ae0ad",
   "lastOpenFiles": [
     "posts/img/woocommerce-add-to-cart.png",
+    "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "templater/Date Modified.md",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
     "posts/img",
     "tags/configuration/_index.zh-cn.md",
-    "posts/personalizing-your-woocommerce-and-wordpress-store-with-a-custom-add-to-cart-button-and-ajax-request.md",
     "README.md",
     "templater/Create File.md",
     "templater/Insert Tags.md",
-    "templater/Date Modified.md",
     "templater/Update Slug.md",
     "templater/New Post.md",
     "templater/Friendly Tags.md",
@@ -245,7 +246,6 @@
     "posts/theme-documentation-mermaid-shortcode/index.en.md",
     "posts/theme-documentation-music-shortcode/index.en.md",
     "posts/theme-documentation-typeit-shortcode/index.en.md",
-    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "Untitled 1.md",
     "Untitled.md",
     "posts/automatically-backup-files-your-server-files/index.en.md",
@@ -262,7 +262,6 @@
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/save-password-google-chrome.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/facebook-uri.png",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/mozilla-firefox-password-manager.png",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser"
   ]
 }
