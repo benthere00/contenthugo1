@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templater/Update Post.md"
+                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md"
               }
             }
           }
@@ -218,9 +218,9 @@
   },
   "active": "401845f8642ae0ad",
   "lastOpenFiles": [
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
-    "templater/Rename Slug.md",
     "templater/Update Post.md",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "templater/Rename Slug.md",
     "posts/featured-image.png",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/featured-image-preview.png",
