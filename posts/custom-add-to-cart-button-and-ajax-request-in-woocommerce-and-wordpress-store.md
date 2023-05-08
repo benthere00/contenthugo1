@@ -6,7 +6,7 @@ lastmod: 2023-05-08T04:53:13+08:00
 draft: false
 author: "wpdev"
 authorLink: "https://www.datacareph.com/"
-description: "Relevant description for this content"
+description: "Creating a Custom Add to Cart Button using Ajax Request for a Seamless Checkout Experience in WooCommerce and WordPress"
 images: []
 resources:
 - name: "featured-image"
@@ -151,7 +151,7 @@ add_filter( 'woocommerce_product_single_add_to_cart_text', 'custom_add_to_cart_t
 Now, your custom add to cart button text will appear on both product archives and single product pages.
 
 ## How do I customize my WooCommerce cart button?
-### Scenario 3
+### Scenario 3.
 
 If you want to customize the appearance of your WooCommerce cart button, you can do so with #CSS. Here's an example of how to change the background color and text color of the cart button:
 ```css
@@ -170,7 +170,7 @@ Simply add this CSS to your theme's stylesheet and adjust the colors to your lik
 
 ## Why is Ajax add to cart not working in WooCommerce?
 
-### Scenario #4
+### Scenario 4.
 
 If Ajax add to cart is not working in WooCommerce, it could be due to a number of reasons. Here are a few things you can check:
 
