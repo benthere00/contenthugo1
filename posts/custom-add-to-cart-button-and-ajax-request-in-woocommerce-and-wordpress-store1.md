@@ -10,7 +10,7 @@ description: "Creating a Custom Add to Cart Button using Ajax Request for a Seam
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "featured-image-1.png"
 
 tags: ["WooCommerce","WordPress","CSS"]
 categories: ["Web Development"]
