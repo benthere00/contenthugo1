@@ -216,13 +216,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3165432d584fc633",
+  "active": "401845f8642ae0ad",
   "lastOpenFiles": [
-    "templater/Update Post.md",
+    "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "posts/theme-documentation-basics/index.en.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "templater/Update Post.md",
     "templater/Rename Slug.md",
     "posts/featured-image.png",
-    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/featured-image-preview.png",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store0/index.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store0",
@@ -242,7 +243,6 @@
     "posts/emoji-support/index.en.md",
     "posts/theme-documentation-basics/complete-configuration-preview.zh-cn.png",
     "posts/theme-documentation-basics/featured-image.jpg",
-    "posts/theme-documentation-basics/index.en.md",
     "posts/theme-documentation-bilibili-shortcode/index.en.md",
     "posts/theme-documentation-built-in-shortcodes/index.en.md",
     "posts/theme-documentation-content/index.en.md",
