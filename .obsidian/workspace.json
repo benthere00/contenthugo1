@@ -71,11 +71,9 @@
             "id": "401845f8642ae0ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
-                "mode": "source",
-                "source": false
+                "file": "posts/featured-image 1.png"
               }
             }
           }
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
+                "file": "posts/featured-image 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
+                "file": "posts/featured-image 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md"
+                "file": "posts/featured-image 1.png"
               }
             }
           }
@@ -218,9 +216,10 @@
   },
   "active": "3165432d584fc633",
   "lastOpenFiles": [
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
+    "posts/featured-image 1.png",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store1.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/index.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store",
     "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/index.en.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store/featured-image.png",
@@ -251,7 +250,6 @@
     "posts/theme-documentation-mermaid-shortcode/index.en.md",
     "posts/theme-documentation-music-shortcode/index.en.md",
     "Untitled 1.md",
-    "Untitled.md",
     "about/privacy-policy/privacy-policy-datacareph.png",
     "about/us",
     "about/we-care",
@@ -262,7 +260,6 @@
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
     "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png",
-    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/save-password-google-chrome.png"
+    "posts/breach-threat-someone-can-peek-your-saved-password-from-the-browser/google-chrome-password-manager.png"
   ]
 }
