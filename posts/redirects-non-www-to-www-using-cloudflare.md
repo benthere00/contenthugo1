@@ -2,6 +2,16 @@
 title: "Redirect Non-WWW to WWW using Cloudflare as Clean Solution For Traefik: Step-by-Step Guide."
 date: 2023-04-03T08:44:35Z
 draft: false
+images: []
+resources:
+- name: "featured-image"
+  src: "featured-image.png"
+
+tags: ["cloudflare", "traefik", "redirection"]
+categories: ["Web Server"]
+
+lightgallery: true
+---
 ---
 
 You can find many instructions online on how to redirect from Non-WWW to WWW like Google search does. However, at the time of writing this, I couldn't find any that worked.  Particularly configuring Traefik as Proxy Server and Nginx as Web Server. 
