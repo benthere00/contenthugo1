@@ -8,12 +8,10 @@ author: "wpdev"
 authorLink: "https://www.datacareph.com/"
 description: "Creating a Custom Add to Cart Button using Ajax Request for a Seamless Checkout Experience in WooCommerce and WordPress"
 images: []
-featuredimage: "/blog/posts/theme-documentation-content/featured-image.jpg"
+featuredimage: "../img/woocommerce-add-to-cart.png"
 resources:
 - name: "featured-image"
   src: "featured-image.png"
-- name: "featured-image-preview"
-  src: "featured-image-preview.jpg"
 
 tags: ["WooCommerce","WordPress","CSS"]
 categories: ["Web Development"]
