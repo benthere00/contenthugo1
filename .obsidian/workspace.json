@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+                "file": "about/privacy-policy/index.en.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+                "file": "about/privacy-policy/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+                "file": "about/privacy-policy/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md"
+                "file": "about/privacy-policy/index.en.md"
               }
             }
           }
@@ -218,8 +218,9 @@
   },
   "active": "401845f8642ae0ad",
   "lastOpenFiles": [
-    "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "about/privacy-policy/privacy-policy-datacareph.png",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "posts/redirects-non-www-to-www-using-cloudflare.md",
     "templater/Update Post.md",
     "posts/theme-documentation-basics/index.en.md",
     "templater/Rename Slug.md",
@@ -253,7 +254,6 @@
     "posts/theme-documentation-mermaid-shortcode/index.en.md",
     "posts/theme-documentation-music-shortcode/index.en.md",
     "Untitled 1.md",
-    "about/privacy-policy/privacy-policy-datacareph.png",
     "about/us",
     "about/we-care",
     "about/us/Untitled",

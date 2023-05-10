@@ -3,10 +3,23 @@ title: "Privacy Policy"
 date: 2023-04-03T11:04:49+08:00
 draft: false
 description: "Privacy Policy"
-images: ["/privacy-policy-datacareph.png"]
+images: ["posts/img/woocommerce-add-to-cart.png"]
+featuredimage: "/blog/posts/img/default.png"
+resources:
+- name: "featured-image"
+  src: "featured-image.png"
+  
+categories: ["information"]
 
-lightgallery: true
+lightgallery: false
+
+toc:
+  enable: true
+twemoji: false
+math:
+  enable: false
 ---
+
 
 This Privacy Policy describes how your personal information is collected, used, stored, retained, protected, and shared when you visit or make a purchase from DataCarePH.com (the “Site”).
 
