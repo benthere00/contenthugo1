@@ -3,14 +3,14 @@ title: "Privacy Policy"
 date: 2023-04-03T11:04:49+08:00
 draft: false
 description: "Privacy Policy"
-images: ["/privacy-policy-datacareph.png"]
+images: ["/privacy-policy-DataCarePh.png"]
 toc:
   enable: true
 ---
 
-This Privacy Policy describes how your personal information is collected, used, stored, retained, protected, and shared when you visit or make a purchase from DataCarePH.com (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, stored, retained, protected, and shared when you visit or make a purchase from DataCarePh.com (the “Site”).
 
-At DataCarePH, we respect your privacy and recognize your rights to privacy. We are committed to protecting the personal information that you provide to us. We comply with the fundamental principles of privacy as required by Data Protection Laws, such as, but not limited to, Republic Act No. 10173 also known as Philippine Data Privacy Act of 2012, its implementing rules and regulations, the General Data Protection Regulation (GDPR) of the European Union, and the California Consumer Privacy Act (CCPA).
+At DataCarePh, we respect your privacy and recognize your rights to privacy. We are committed to protecting the personal information that you provide to us. We comply with the fundamental principles of privacy as required by Data Protection Laws, such as, but not limited to, Republic Act No. 10173 also known as Philippine Data Privacy Act of 2012, its implementing rules and regulations, the General Data Protection Regulation (GDPR) of the European Union, and the California Consumer Privacy Act (CCPA).
 
 We keep your personal information in confidentiality in the extent of  adherence to the fundamental principles of privacy as required by Data Protection Laws, such as, but not limited to, Republic Act No. 10173 also known as Philippine Data Privacy Act of 2012, its implementing rules and regulations, the General Data Protection Regulation (GDPR) of the European Union, and the California Consumer Privacy Act (CCPA).
 
@@ -40,7 +40,7 @@ Furthermore, we collect and store your data when you:
 
 Register online or place an order for any of our products or services. Voluntarily complete a customer survey or provide feedback on any of our message boards or via email, and live chat communication embedded in our website.
 
-DataCarePH may also receive your data indirectly from the following sources:
+DataCarePh may also receive your data indirectly from the following sources:
 
 -   Email
 -   Social Media Platform (i.e. Google, Facebook, Youtube, Twitter)
@@ -99,11 +99,11 @@ The Site is not intended for individuals under the age of 13.
 
 ## California Consumer Privacy Act (CCPA)
 
-If and to the extent **DataCarePH** is processing Personal Data on behalf and in accordance with the documented instructions of Customer within the scope of the CCPA, **DataCarePH** makes the following additional commitments to Customer. **DataCarePH** will process the Personal Data on behalf of Customer and will not sell the Personal Data as the term “selling” is defined in the CCPA. – share, rent, release, disclose, disseminate, make available, transfer or otherwise communicate orally, in writing or by electronic or other means, the Personal Data to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions for cross-context behavioral advertising in which no money is exchanged.
+If and to the extent **DataCarePh** is processing Personal Data on behalf and in accordance with the documented instructions of Customer within the scope of the CCPA, **DataCarePh** makes the following additional commitments to Customer. **DataCarePh** will process the Personal Data on behalf of Customer and will not sell the Personal Data as the term “selling” is defined in the CCPA. – share, rent, release, disclose, disseminate, make available, transfer or otherwise communicate orally, in writing or by electronic or other means, the Personal Data to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions for cross-context behavioral advertising in which no money is exchanged.
 
-Retain, use or disclose the Personal Data for any purpose other than for the business purposes specified in the DPA Terms and the **DataCarePH** Customer Agreement, including retaining, using or disclosing the Personal Data for a commercial purpose other than the business purposes specified in the DPA Terms or the DataCarePH Customer Agreement, or as otherwise permitted by the CCPA.
+Retain, use or disclose the Personal Data for any purpose other than for the business purposes specified in the DPA Terms and the **DataCarePh** Customer Agreement, including retaining, using or disclosing the Personal Data for a commercial purpose other than the business purposes specified in the DPA Terms or the DataCarePh Customer Agreement, or as otherwise permitted by the CCPA.
 
-Retain, use or disclose the Personal Data outside of the direct business relationship with Customer. combine the Personal Data with personal information that it receives from or on behalf of a third party or collects from California residents, except that **DataCarePH** may combine Personal Data to perform any business purpose as permitted by the CCPA or any regulations adopted or issued under the CCPA.
+Retain, use or disclose the Personal Data outside of the direct business relationship with Customer. combine the Personal Data with personal information that it receives from or on behalf of a third party or collects from California residents, except that **DataCarePh** may combine Personal Data to perform any business purpose as permitted by the CCPA or any regulations adopted or issued under the CCPA.
 
 ## Risk Involved
 
