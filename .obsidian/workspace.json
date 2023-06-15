@@ -240,10 +240,11 @@
   },
   "active": "ed3fbe630f8ad966",
   "lastOpenFiles": [
-    "posts/theme-documentation-typeit-shortcode/Untitled.md",
-    "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+    "posts/img/post-default.jpg",
+    "posts/theme-documentation-typeit-shortcode/Untitled.md",
     "New Post 1.md",
     "New Post.md",
     "templater/Create File.md",
@@ -276,7 +277,6 @@
     "posts/theme-documentation-echarts-shortcode/index.en.md",
     "posts/theme-documentation-extended-shortcodes/index.en.md",
     "posts/theme-documentation-mapbox-shortcode/featured-image.jpg",
-    "posts/theme-documentation-mapbox-shortcode/index.en.md",
     "about/us",
     "about/we-care",
     "about/us/Untitled",
@@ -284,7 +284,6 @@
     "about/privacy-policy",
     "notice",
     "posts/automatically-backup-files-your-server-files/backup-folder.png",
-    "posts/automatically-backup-files-your-server-files/featured-image.png",
     "posts/automatically-backup-files-your-server-files"
   ]
 }
