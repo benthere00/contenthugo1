@@ -240,6 +240,15 @@
   },
   "active": "ed3fbe630f8ad966",
   "lastOpenFiles": [
+    "posts/src/default.png",
+    "posts/src/default.jpg",
+    "templater/Update Post.md",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+    "posts/src/woocommerce-add-to-cart.png",
+    "posts/src/post-default.jpg",
+    "posts/src/index.md",
+    "posts/src",
     "docs/theme-documentation-typeit-shortcode/index.zh-cn.md",
     "docs/theme-documentation-typeit-shortcode/index.en.md",
     "docs/theme-documentation-typeit-shortcode/featured-image.png",
@@ -265,11 +274,8 @@
     "docs/theme-documentation-echarts-shortcode/index.en.md",
     "docs/theme-documentation-echarts-shortcode/featured-image.jpg",
     "docs/theme-documentation-echarts-shortcode",
-    "docs/theme-documentation-content/summary.zh-cn.png",
-    "docs/theme-documentation-content/summary.png",
     "docs/theme-documentation-content/index.zh-cn.md",
     "docs/theme-documentation-content/index.en.md",
-    "docs/theme-documentation-content/featured-image.jpg",
     "docs/theme-documentation-content",
     "docs/theme-documentation-built-in-shortcodes/index.zh-cn.md",
     "docs/theme-documentation-built-in-shortcodes/index.en.md",
@@ -279,12 +285,6 @@
     "docs/theme-documentation-bilibili-shortcode",
     "docs/theme-documentation-basics/index.zh-cn.md",
     "docs/theme-documentation-basics/index.en.md",
-    "docs/theme-documentation-basics",
-    "docs/emoji-support/index.zh-cn.md",
-    "docs/emoji-support/index.en.md",
-    "docs/basic-markdown-syntax/index.zh-cn.md",
-    "docs/basic-markdown-syntax/index.en.md",
-    "theme-documentation-typeit-shortcode/index.zh-cn.md",
-    "theme-documentation-typeit-shortcode/index.en.md"
+    "docs/emoji-support/index.zh-cn.md"
   ]
 }
