@@ -1,7 +1,7 @@
 ---
-title: "Post's Assets Index"
-date: 2023-06-16T00:45:08+08:00
-lastmod: 2023-06-16T00:45:08+08:00
+title: "Post's Assets Index A"
+date: 2023-06-16T15:36:47+08:00
+lastmod: 2023-06-16T15:36:54+08:00
 draft: false
 author: "src"
 authorLink: "https://www.datacareph.com"
