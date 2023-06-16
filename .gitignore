@@ -22,3 +22,6 @@ bin-release/
 
 # remove templater
 templater/
+
+# Remove default docs
+docs/
