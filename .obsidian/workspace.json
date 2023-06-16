@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templater/Update Post.md",
+                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templater/Update Post.md"
+                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md"
               }
             }
           }
@@ -240,12 +240,17 @@
   },
   "active": "ed3fbe630f8ad966",
   "lastOpenFiles": [
-    "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
-    "posts/img/index.md",
-    "posts/theme-documentation-basics/index.en.md",
-    "posts/theme-documentation-basics/featured-image.jpg",
-    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
+    "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+    "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
+    "posts/theme-documentation-content/index.en.md",
+    "tags/content/_index.zh-cn.md",
+    "posts/basic-markdown-syntax/index.en.md",
+    "posts/theme-documentation-basics/index.en.md",
+    "id.md",
+    "templater/Update Post.md",
+    "posts/img/index.md",
+    "posts/theme-documentation-basics/featured-image.jpg",
     "posts/img/post-default.jpg",
     "posts/theme-documentation-typeit-shortcode/Untitled.md",
     "New Post 1.md",
@@ -253,7 +258,6 @@
     "templater/Create File.md",
     "README.md",
     "about/privacy-policy/privacy-policy-datacareph.png",
-    "templater/Update Post.md",
     "templater/Rename Slug.md",
     "posts/featured-image.png",
     "posts/featured-image-preview.png",
@@ -273,9 +277,6 @@
     "posts/emoji-support/index.en.md",
     "posts/theme-documentation-basics/complete-configuration-preview.zh-cn.png",
     "posts/theme-documentation-bilibili-shortcode/index.en.md",
-    "posts/theme-documentation-built-in-shortcodes/index.en.md",
-    "posts/theme-documentation-content/index.en.md",
-    "posts/theme-documentation-echarts-shortcode/index.en.md",
     "posts/theme-documentation-mapbox-shortcode/featured-image.jpg",
     "about/us",
     "about/we-care",

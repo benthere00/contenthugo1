@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: "Custom Add to Cart Button and Ajax Request in WooCommerce and WordPress Store"
 date: 2023-05-09T02:21:25+08:00
 lastmod: 2023-05-09T02:21:17+08:00
