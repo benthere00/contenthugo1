@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+                "file": "posts/src/a/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+                "file": "posts/src/a/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+                "file": "posts/src/a/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md"
+                "file": "posts/src/a/index.md"
               }
             }
           }
@@ -240,14 +240,15 @@
   },
   "active": "ed3fbe630f8ad966",
   "lastOpenFiles": [
-    "posts/src/a/wordfence-scan.png",
+    "posts/src/index.md",
+    "posts/src/a/index.md",
     "posts/wordpress-vulnerability-scanner-protect-your-website-from-malware.md",
+    "posts/src/a/wordfence-scan.png",
     "posts/src/woocommerce-add-to-cart.png",
     "posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
     "Pasted image 20230616143451.png",
     "posts/redirects-non-www-to-www-using-cloudflare.md",
     "posts/src/a/woocommerce-add-to-cart.png",
-    "posts/src/a/index.md",
     "posts/src/a/default.png",
     "posts/src/a/default.jpg",
     "posts/src/a",
@@ -259,7 +260,6 @@
     "posts/src copy/default.jpg",
     "posts/src copy/index.md",
     "posts/src copy",
-    "posts/src/index.md",
     "blog/posts/custom-add-to-cart-button-and-ajax-request-in-woocommerce-and-wordpress-store.md",
     "blog/posts",
     "blog",
