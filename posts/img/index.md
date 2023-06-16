@@ -6,8 +6,8 @@ draft: false
 author: "Researcher"
 authorLink: "https://www.datacareph.com"
 description: "Index page for img folder"
-images: ["post-default.jpg"]
-featuredimage: "post-default.jpg"
+images: ["posts/img/post-default.jpg"]
+featuredimage: "posts/img/post-default.jpg"
 tags: ["post"]
 categories: ["information"]
 
