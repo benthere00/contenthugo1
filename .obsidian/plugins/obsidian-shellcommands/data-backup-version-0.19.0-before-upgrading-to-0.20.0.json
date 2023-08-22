@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.20.0",
+  "settings_version": "0.19.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -11,21 +11,14 @@
   "notification_message_duration": 10,
   "execution_notification_mode": "permanent",
   "output_channel_clipboard_also_outputs_to_notification": true,
-  "output_channel_notification_decorates_output": true,
   "enable_events": true,
   "approve_modals_by_pressing_enter_key": true,
-  "command_palette": {
-    "re_execute_last_shell_command": {
-      "enabled": true,
-      "prefix": "Re-execute: "
-    }
-  },
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
       "id": "aptlbjfsc0",
       "platform_specific_commands": {
-        "default": "bash /Users/esstat17/Documents/hugo/github/venhomelab/helperhugo1/autosave.sh"
+        "default": "echo '' > /Users/esstat17/projx/hugo/github/obsidian_bot.log && bash /Users/esstat17/projx/hugo/github/venhomelab/helperhugo1/autosave.sh >  /Users/esstat17/projx/hugo/github/obsidian_bot.log 2>&1"
       },
       "shells": {},
       "alias": "Git Auto Pilot",
@@ -34,6 +27,10 @@
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
+      },
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
       },
       "output_wrappers": {
         "stdout": null,
@@ -50,17 +47,7 @@
           "prompt_id": "k74vh8ihn3"
         }
       ],
-      "variable_default_values": {},
-      "output_handlers": {
-        "stdout": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        },
-        "stderr": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        }
-      }
+      "variable_default_values": {}
     }
   ],
   "prompts": [

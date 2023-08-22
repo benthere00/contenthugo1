@@ -9,7 +9,7 @@ description: "Index page for assets folder"
 images: ["posts/img/post-default.jpg"]
 featuredimage: "posts/img/post-default.jpg"
 tags: ["post"]
-categories: ["information"]
+categories: ["General"]
 
 lightgallery: false
 
