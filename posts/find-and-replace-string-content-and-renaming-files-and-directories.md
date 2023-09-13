@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: Find and Replace String Content and Renaming Files and Directories
-date: 2023-09-14T03:01:11Z
-lastmod: 2023-09-14T03:01:58Z
+date: 2023-09-10T22:54:48+08:00
+lastmod: 2023-09-10T22:54:48+08:00
 draft: false
 author: venven
 authorLink: https://www.datacareph.com
