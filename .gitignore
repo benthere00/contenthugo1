@@ -25,3 +25,8 @@ templater/
 
 # Remove default docs
 docs/
+
+# Usually sensitive
+*.env
+.env
+._*

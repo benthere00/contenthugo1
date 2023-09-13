@@ -25,7 +25,7 @@
     {
       "id": "aptlbjfsc0",
       "platform_specific_commands": {
-        "default": "bash /Users/esstat17/Documents/hugo/github/venhomelab/helperhugo1/autosave.sh"
+        "default": "echo '' > /home/venven/435Gdrive/documents-mac/hugo/github/obsidian_bot.log && bash '/home/venven/435Gdrive/documents-mac/hugo/github/venhomelab/helperhugo1/autosave.sh' >  /home/venven/435Gdrive/documents-mac/hugo/github/obsidian_bot.log 2>&1"
       },
       "shells": {},
       "alias": "Git Auto Pilot",
