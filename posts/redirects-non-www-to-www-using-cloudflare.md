@@ -22,6 +22,7 @@ You can find many instructions online on how to redirect from Non-WWW to WWW lik
 
 So, I came up with a solution to redirect using Cloudflare since they offer 3 free page redirection rules. It's a simple and effective way to do it, and you get the added benefit of using Cloudflare's services.
 
+## The Instruction: Redirect Non-WWW to WWW using Cloudflare
 If you want to redirect non-www to www using Cloudflare, follow these step-by-step instructions:
 
 1.  Log in to your Cloudflare account and select the domain you want to redirect.
@@ -41,4 +42,4 @@ It's important to note that a 301 redirect is a permanent redirect and it's pref
 
 That's it! Now all traffic to your domain without the www prefix will be automatically redirected to the www version.
 
-Nice and clean right? Just comment below.
+Nice and clean right? Just comment down below.
