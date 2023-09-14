@@ -21,7 +21,7 @@ bin-release/
 .DS_Store
 
 # remove templater
-templater/
+# templater/
 
 # Remove default docs
 docs/
@@ -30,3 +30,5 @@ docs/
 *.env
 .env
 ._*
+
+.obsidian/workspace.json
