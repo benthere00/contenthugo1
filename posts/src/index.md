@@ -11,8 +11,7 @@ images:
 featuredimage: posts/src/default.png
 tags:
   - post
-categories:
-  - General
+categories: []
 lightgallery: false
 twemoji: false
 math:

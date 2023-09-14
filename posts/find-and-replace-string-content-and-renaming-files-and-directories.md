@@ -8,8 +8,8 @@ author: venven
 authorLink: https://www.datacareph.com
 description: A Utility Command to Find and Replace String Content and Renaming Files and Directories
 images:
-  - posts/src/default.png
-featuredimage: posts/src/default.png
+  - posts/src/a/linux-terminal.png
+featuredimage: posts/src/a/linux-terminal.png
 resources:
   - name: featured-image
     src: featured-image.png

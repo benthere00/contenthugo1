@@ -1,23 +1,29 @@
 ---
 weight: 2
-title: "Custom Add to Cart Button and Ajax Request in WooCommerce and WordPress Store"
+title: Custom Add to Cart Button and Ajax Request in WooCommerce and WordPress Store
 date: 2023-05-09T02:21:25+08:00
 lastmod: 2023-05-09T02:21:17+08:00
 draft: false
-author: "wpdev"
-authorLink: "https://www.datacareph.com/"
-description: "Creating a Custom Add to Cart Button using Ajax Request for a Seamless Checkout Experience in WooCommerce and WordPress"
-images: ["posts/src/a/woocommerce-add-to-cart.png"]
-featuredimage: "posts/src/a/woocommerce-add-to-cart.png"
+author: wpdev
+authorLink: https://www.datacareph.com/
+description: Creating a Custom Add to Cart Button using Ajax Request for a Seamless Checkout Experience in WooCommerce and WordPress
+images:
+  - posts/src/a/woocommerce-add-to-cart.png
+featuredimage: posts/src/a/woocommerce-add-to-cart.png
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
-
-tags: ["WooCommerce","WordPress","CSS"]
-categories: ["Web Development"]
-
+  - name: featured-image
+    src: featured-image.png
+tags:
+  - WordPress
+  - CSS
+  - ecommerce
+  - ajax
+  - javascript
+categories:
+  - Web Development
+  - Wordpress
+  - WooCommerce
 lightgallery: false
-
 toc:
   enable: true
 twemoji: false
