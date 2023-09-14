@@ -2,7 +2,9 @@
 title: "Redirect Non-WWW to WWW using Cloudflare as Clean Solution For Traefik: Step-by-Step Guide"
 date: 2023-09-14T03:38:13+08:00
 draft: false
-images: []
+images:
+  - posts/src/a/cloudflare-page-rules.png
+featuredimage: posts/src/a/cloudflare-page-rules.png
 resources:
 - name: "featured-image"
   src: "featured-image.png"
