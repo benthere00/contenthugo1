@@ -14,7 +14,6 @@ categories: ["Web Server"]
 
 lightgallery: true
 ---
----
 
 You can find many instructions online on how to redirect from Non-WWW to WWW like Google search does. However, at the time of writing this, I couldn't find any that worked.  Particularly configuring Traefik as Proxy Server and Nginx as Web Server. 
 
