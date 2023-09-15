@@ -6,9 +6,6 @@ draft: false
 author: src
 authorLink: https://www.datacareph.com
 description: Index page for assets folder
-images:
-  - posts/src/default.png
-featuredimage: posts/src/default.png
 tags:
   - post
 categories: []
