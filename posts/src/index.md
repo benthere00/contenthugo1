@@ -15,4 +15,4 @@ math:
   enable: false
 ---
 
-- Assets/img
+- assets/img
