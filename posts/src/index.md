@@ -16,4 +16,3 @@ math:
 ---
 
 - assets/img 
-- 
