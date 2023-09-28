@@ -6,12 +6,15 @@ images:
   - posts/src/a/cloudflare-page-rules.png
 featuredimage: posts/src/a/cloudflare-page-rules.png
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
-
-tags: ["cloudflare", "traefik", "redirection"]
-categories: ["Web Server"]
-
+  - name: featured-image
+    src: featured-image.png
+tags:
+  - cloudflare
+  - traefik
+  - redirection
+categories:
+  - Web Server
+  - Cloudflare
 lightgallery: true
 ---
 
